@@ -9,7 +9,7 @@ To run `Five9_Awards_HTML.py`:
 - `python Five9_Awards_HTML.py`
 
 To run `Top_Free_And_Paid_Apps_From_Apple_Appstore_HTML.py`:
-- `Top_Free_And_Paid_Apps_From_Apple_Appstore_HTML.py`
+- `python Top_Free_And_Paid_Apps_From_Apple_Appstore_HTML.py`
 
 To view dataset for `Kaggle_Netflix_Top_10_CSV.py`:
 - `https://github.com/johann017/Web-Scrapers/blob/b7c0e00593c4175bcc608096639572c5c0e609b7/CSV_Scrapers/netflix_list.csv`

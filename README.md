@@ -2,6 +2,21 @@
 
 ## Setup
 
+To run `Billboard_Top_10_HTML.py`:
+- `python Billboard_Top_10_HTML.py`
+
+To run `Five9_Awards_HTML.py`:
+- `python Five9_Awards_HTML.py`
+
+To run `Top_Free_And_Paid_Apps_From_Apple_Appstore_HTML.py`:
+- `Top_Free_And_Paid_Apps_From_Apple_Appstore_HTML.py`
+
+To view dataset for `Kaggle_Netflix_Top_10_CSV.py`:
+- 
+
+To view dataset for `Kaggle_2019_DOJ_crimes_By_Race_CSV.py`:
+- `https://www.kaggle.com/jshap16/doj-arrests-by-race-20162019/version/1?select=2019_DOJ_crimes_by_Race.csv`
+
 ## Description
 
 - ### HTML Web Scrapers

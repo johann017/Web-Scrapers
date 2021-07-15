@@ -1,6 +1,7 @@
 import csv
-
 import pandas as pd
+
+#Gets the csv from where it is in the computer
 df = pd.read_csv (r"C:\Users\jantisseril\Downloads\2019_DOJ_crimes_by_Race.csv")
 counter = 1
 race = {'w':0,'aa':0,'ai':0,'a':0}

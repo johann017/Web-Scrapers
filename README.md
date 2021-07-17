@@ -31,7 +31,6 @@ To view dataset for `Kaggle_2019_DOJ_crimes_By_Race_CSV.py`:
     - This program goes to the top apps in the Apple appstore and scrapes the information off their website. This program recognizes the difference between the paid and free apps and scrapes them accordingly.
     
 - ### CSV Scrapers
-
   - #### `Kaggle_Netflix_Top_10_CSV.py`
     - This program analyzes the dataset downloaded off from Kaggle. It takes and returns the Top 10 Netflix shows from the dataset.
  

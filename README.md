@@ -1,14 +1,23 @@
 # Web-Scrapers
 
 ## Setup
+- Install [GitHub CLI](https://cli.github.com/) and connect it with GitHub account
+- Open up Git CMD
+- Run `gh repo clone johann017/Web-Scrapers` in the command line
 
-To run `Billboard_Top_10_HTML.py`:
-- `python Billboard_Top_10_HTML.py`
+`Billboard_Top_10_HTML.py`:
+- To run this, type the following in to the command line:
+  ```
+  python Billboard_Top_10_HTML.py
+  ```
 
-To run `Five9_Awards_HTML.py`:
-- `python Five9_Awards_HTML.py`
+`Five9_Awards_HTML.py`:
+- To run this, type the following in to the command line:
+  ```
+  python Five9_Awards_HTML.py
+  ```
 
-To run `Top_Free_And_Paid_Apps_From_Apple_Appstore_HTML.py`:
+`Top_Free_And_Paid_Apps_From_Apple_Appstore_HTML.py`:
 - `python Top_Free_And_Paid_Apps_From_Apple_Appstore_HTML.py`
 
 To view dataset for `Kaggle_Netflix_Top_10_CSV.py`:

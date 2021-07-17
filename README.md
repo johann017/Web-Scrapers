@@ -1,6 +1,7 @@
 # Web-Scrapers
 
 ## Setup
+
 To run `Billboard_Top_10_HTML.py`:
 - `python Billboard_Top_10_HTML.py`
 
@@ -16,7 +17,9 @@ To view dataset for `Kaggle_Netflix_Top_10_CSV.py`:
 To view dataset for `Kaggle_2019_DOJ_crimes_By_Race_CSV.py`:
 - `https://github.com/johann017/Web-Scrapers/blob/b7c0e00593c4175bcc608096639572c5c0e609b7/CSV_Scrapers/2019_DOJ_crimes_by_Race.csv`
 
+
 ## Description
+
 - ### HTML Web Scrapers
 
   - #### `Billboard_Top_10_HTML.py`

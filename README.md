@@ -14,7 +14,7 @@
     
   - #### `Top_Free_And_Paid_Apps_From_Apple_Appstore_HTML.py`
     - #### Overview: 
-      - This program goes through the top apps in the Apple appstore and scrapes the information off their website. This program recognizes the difference between the paid and free apps and scrapes them accordingly.
+      - This program goes through the top apps in the Apple appstore and scrapes the information off their website. It recognizes the difference between the paid and free apps and scrapes them accordingly.
     
 - ### CSV Scrapers
   - #### `Kaggle_Netflix_Top_10_CSV.py`

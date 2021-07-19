@@ -26,8 +26,8 @@
       - Analyzes the dataset downloaded off from Kaggle and calculates the race with the highest reported number of crimes in a year and returns the percent of total crimes that were committed by this group.
 
 ## Setup
-- Install [GitHub CLI](https://cli.github.com/) and connect it with GitHub account
-- Open up Git CMD
+- Install [GitHub CLI](https://cli.github.com/) and connect to GitHub account
+- Open Git CMD
 - Run `gh repo clone johann017/Web-Scrapers` in the command line
 
 `Billboard_Top_10_HTML.py`:

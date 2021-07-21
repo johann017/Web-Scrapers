@@ -31,18 +31,21 @@
 - Run `gh repo clone johann017/Web-Scrapers` in the command line
 
 `Billboard_Top_10_HTML.py`:
+- Move into the Web-Scrapers directory then the HTML_Scrapers directory
 - To run this, type the following in to the command line:
   ```
   python Billboard_Top_10_HTML.py
   ```
 
 `Five9_Awards_HTML.py`:
+- Move into the Web-Scrapers directory then the HTML_Scrapers directory
 - To run this, type the following in to the command line:
   ```
   python Five9_Awards_HTML.py
   ```
 
 `Top_Free_And_Paid_Apps_From_Apple_Appstore_HTML.py`:
+- Move into the Web-Scrapers directory then the HTML_Scrapers directory
 - To run this, type the following in to the command line:
   ```
   python Top_Free_And_Paid_Apps_From_Apple_Appstore_HTML.py

@@ -23,7 +23,7 @@
  
   - #### `Kaggle_2019_DOJ_crimes_By_Race_CSV.py`
     - #### Overview: 
-      - Analyzes the dataset downloaded off from Kaggle and calculates the race with the highest reported number of crimes in a year and returns the percent of total crimes that were committed by this group.
+      - Analyzes the dataset downloaded from Kaggle and calculates the race with the highest reported number of crimes in a year and returns the percent of total crimes that were committed by this group.
 
 ## Setup
 - Install [GitHub CLI](https://cli.github.com/) and connect to GitHub account
